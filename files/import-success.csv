@@ -1,0 +1,3 @@
+Invoice Code; Issued Date; Owner Name; Contact Name; Subtotal; Taxes; Total;Status
+F001;2021-04-17;John Doe S.L.; Jane Roe; 100.00;21.00;121.00;issued
+F002;2021-04-18;John Doe S.L.; Jane Roe; 200.00;42.00;242.00;draft

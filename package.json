@@ -1,0 +1,23 @@
+{
+  "name": "code-challenge-2021-edition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --coverage --watchAll",
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "Billin team",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.11.1",
+    "eslint": "^7.28.0",
+    "jest": "^25.2.4",
+    "ts-jest": "^25.3.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {}
+}
